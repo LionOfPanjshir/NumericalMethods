@@ -1,1 +1,0 @@
-A series of numerical methods for both ordinary and partial differential equations.
